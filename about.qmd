@@ -19,36 +19,36 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your backgroundd, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+Information Systems student with a strong builder mindset and hands-on experience designing, building, and iterating on data-driven systems. Skilled in Python, SQL, Tableau, and Excel automation, with a passion for exploring new tools and turning ideas into working solutions. Proven ability to deliver efficient, secure systems supporting HR, finance, and research operations. Known for analytical thinking, rapid learning, compliance-aware design, and leadership across academic, professional, and ethical contexts.
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **Bachelor of Science – Information System Management**, Brigham Young University (2027)
+- **Relevant Coursework**: Intro to Computer Programming (Python), Intro to Management Information Systems (VBA, SQL, HTML, CSS, and Tableau), Spreadsheets and Business Analysis (Excel statistics, prediction, automation, and optimization), Database Systems (SQL), Principles of Business Programming (JavaScript, EJS, Node.js), Data Communications, Management Communication, and Marketing Management 
+- **Academic Achievements**: BYU Marriott School Dean’s List (issued by BYU Marriott School June 2024 and June 2025), W. D. Snow, Academic Scholarship, GPA 3.97 / 4.00, ACT 34/36
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Workday Software Developer - BYU Office of Information Technology
+*Apr 2025 - Present*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Developed 110+ Workday reports, integrations, and orchestrations (JSON, XML, APIs), streamlining HR and Finance operations for 30,000+ university employees and ensuring secure access to sensitive employee data 
+- Performed SQL-driven analysis and reconciliation of HR system discrepancies in a production environment supporting 16,000 employees and 37,000 students.
+- Partnered with business stakeholders to understand needs, validate prototypes, and manage scope for user requests 
 
-#### Another Position - Company Name
-*Dates*
+#### Research Assistant to the Dean - BYU Marriott School of Business, Information Systems Department
+*Sep 2024 - Apr 2025*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Built secure web scraper (Python, Beautiful Soup) to extract public data for integration into nonprofit custom GPT 
+- Developed 6 custom chatbots (Chatbase) with ethical AI safeguards, applied in nonprofit and academic settings 
+- Coauthored peer-reviewed paper presented at Americas Conference on Information Systems 2025, exploring applications of GPT technology to promote social good and strengthen faith communities 
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+- Security & Infrastructure: Workday Security & Controls, Workday Orchestrations, Access Management, APIs 
+- Data & BI: SQL, Tableau, Excel Statistics/Prediction, Solver Optimization 
+- Development: Python (Pandas, Openpyxl, Beautiful Soup), Javascript, Node.js, HTML/CSS, VBA Automation
 
 **Soft Skills**
 - Communication and presentation
@@ -56,8 +56,8 @@ Write a compelling narrative about your backgroundd, education, and what drives 
 - Strategic thinking and problem-solving
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+I love being outdoors! As an avid photographer, hunter, and fisherman, the backcountry is where I find peace and inspiration. I also love using AI to build products that bring real value to the people around me; building is what keeps me excited and curious.
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I am seeking a hands-on role at a product-driven company or growing startup where I can contribute directly to building and shipping products that create real-world value. I am drawn to environments that move quickly, emphasize ownership, and value practical problem-solving. I enjoy working across the product lifecycle, including understanding requirements, designing solutions, writing and maintaining code, and iterating based on real user feedback. I am especially interested in roles where I can grow as a technical builder while helping turn ideas into reliable, scalable products.
