@@ -46,14 +46,14 @@ Information Systems student with a strong builder mindset and hands-on experienc
 ### Skills & Interests
 
 **Technical Skills**
-- Security & Infrastructure: Workday Security & Controls, Workday Orchestrations, Access Management, APIs 
-- Data & BI: SQL, Tableau, Excel Statistics/Prediction, Solver Optimization 
+- Security & Infrastructure: Workday Security & Controls, Workday Orchestrations, Access Management, APIs <br>
+- Data & BI: SQL, Tableau, Excel Statistics/Prediction, Solver Optimization <br>
 - Development: Python (Pandas, Openpyxl, Beautiful Soup), Javascript, Node.js, HTML/CSS, VBA Automation
 
 **Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+- Communication and presentation<br>
+- Cross-functional collaboration<br>
+- Strategic thinking and problem-solving<br>
 
 **Interests**
 I love being outdoors! As an avid photographer, hunter, and fisherman, the backcountry is where I find peace and inspiration. I also love using AI to build products that bring real value to the people around me; building is what keeps me excited and curious.
