@@ -19,7 +19,7 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+Write a compelling narrative about your backgroundd, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
 
 ### Education
 
