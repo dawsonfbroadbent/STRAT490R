@@ -1,54 +1,51 @@
 ---
-title: "Name of the application I have published for Homework 1"
+title: "Idea Tracker"
 date: "2024-09-15"
-categories: [GitHub, Vercel, Claude Code]
+categories: [Next.js, TypeScript, Vercel]
 ---
 
 ## Overview
 
-This project involved using Claude Code to write the code to needed to deveop an app that ...
+Idea Tracker is a lightweight, browser-based application designed for tracking startup problems, ideas, and notes. Built with a local-first architecture, all data is stored directly in the browser's localStorage, eliminating the need for a backend server or database.
 
-The primary purpose of this app is to:
+Key features include:
 
-- ....
-- ....
+- **Local-first storage**: All entries persist in browser localStorage for instant access and offline capability
+- **Linked entries**: Connect related problems, ideas, and notes together for better organization
+- **JSON import/export**: Back up your data or migrate between browsers with full JSON export and import functionality
 
-## Live Product Demo
+## Live Demo
 
 <div class="d-flex justify-content-center gap-3 my-4">
-  <!-- Open App button -->
   <a class="btn btn-primary d-inline-flex align-items-center"
-     href="https://tetris-game-egc6.vercel.app/"
+     href="https://idea-tracker-bhod.vercel.app/notes"
      target="_blank" rel="noopener"
      aria-label="Open live app">
     <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
     Open App in New Tab
   </a>
-
-  <!-- GitHub Source button -->
-  <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/your-user/your-repo"
-     target="_blank" rel="noopener"
-     aria-label="Open GitHub source">
-    <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
-    View source on GitHub
-  </a>
 </div>
 
-<iframe src="https://tetris-game-egc6.vercel.app/"
-        style="width:100%; height:900px; border:none;"
+<iframe src="https://idea-tracker-bhod.vercel.app/notes"
+        style="width:100%; height:700px; border:none;"
         allowfullscreen>
 </iframe>
 
 ## Technical Details
 
-Framework/Stack: [e.g., React, Quarto, HTML/CSS/JS]
+| Component | Technology |
+|-----------|------------|
+| **Framework** | Next.js 14 (App Router) |
+| **Language** | TypeScript |
+| **Styling** | Tailwind CSS |
+| **Persistence** | Browser localStorage |
+| **Hosting** | Vercel |
 
-Deployment: GitHub Pages + Vercel
+### Architecture
 
-Tools Used:
--   Claude Code
+Idea Tracker is built as a client-side, local-first single-page application (SPA). The architecture prioritizes simplicity and user privacy:
 
-## Product Requirements Document
-
-Paste in the PRD that you submitted to Claude Code
+- **No backend required**: All data operations happen in the browser
+- **No database**: localStorage serves as the persistence layer
+- **JSON-based backup**: Users can export their entire dataset as JSON for backup or migration purposes
+- **Stateless deployment**: The Vercel-hosted application serves only static assets
