@@ -12,6 +12,8 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: problems.qmd
+        text: Problems I'm Facing
       - text: Projects
         menu:
           - href: projects/project-1.qmd
@@ -26,6 +28,7 @@ website:
           #  text: Project 5
           #- href: projects/project-6.qmd
           #  text: Project 6
+
 
 format:
   html:

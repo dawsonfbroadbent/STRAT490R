@@ -1,0 +1,139 @@
+---
+title: "Problems I'm Facing"
+---
+
+::: {.hero-banner .text-center}
+
+<img src="images/profile.jpeg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+
+<h1>Dawson Broadbent</h1>
+
+<a href="https://linkedin.com/in/dawsonfbroadbent" class="btn btn-outline-primary btn-sm" target="_blank">
+  <i class="fab fa-linkedin"></i> LinkedIn
+</a>
+<a href="https://github.com/dawsonfbroadbent" class="btn btn-outline-primary btn-sm" target="_blank">
+  <i class="fab fa-github"></i> GitHub
+</a>
+
+:::
+
+## Problem Portfolio
+
+These are problems I keep running into in my own life, things that genuinely frustrate me, slow me down, or make me think, “There has to be a better way to do this.” 
+
+Below, I’ve written out each one more clearly. For each, I explain what the problem is, why it matters to me personally, and why I think it is actually worth trying to solve, not just as a project, but as something that could help real people in real situations.
+
+---
+
+## 1. Idea Validation Platform — "Is This Idea Actually Good?"
+
+### Problem Description
+
+Early-stage founders routinely invest significant time and capital into building products before they have credible evidence of real market demand. Without structured, early validation, many teams launch solutions that are poorly differentiated, mispriced, or aimed at problems that customers do not actively seek to solve. This results in wasted resources, delayed learning, and avoidable startup failure.
+
+### Why This Matters
+
+I spend a meaningful amount of time building and evaluating software products, both academically and independently. I have seen how easy it is to fall in love with a concept that feels compelling in theory but lacks real-world pull. The absence of a simple, standardized way to test demand early creates friction for builders who want to move fast without gambling months of work on assumptions.
+
+### Why This Is Worth Solving
+
+A lightweight, repeatable validation process lowers the cost of experimentation. By giving founders a clear, data-backed snapshot of demand, competition, and risk before they write production code, this tool helps shift startup culture from "build first, learn later" to "test, then build." That change directly improves capital efficiency and increases the probability of building products people genuinely want.
+
+### MVP Capabilities
+
+- Automated keyword and discussion scraping from platforms like Reddit and X
+- Demand scoring based on frequency, sentiment, and trend growth
+- Competitive landscape and pricing map
+- One-page validation report (PDF or shareable link)
+
+---
+
+## 2. Micro-Learning for Dead Time — 15-Minute Learning Engine
+
+### Problem Description
+
+Most professional learning platforms are designed for long, uninterrupted study sessions. In practice, people's schedules are fragmented. Commutes, short breaks, and idle time between commitments often go unused because existing learning tools do not adapt to small, predictable windows of attention. This leads to inconsistent skill development and abandoned learning goals.
+
+### Why This Matters
+
+I balance coursework, technical projects, and independent product development, which means my schedule is rarely open for hour-long learning blocks. I regularly encounter short periods of time that are long enough to make progress, but not long enough to justify opening a full course or tutorial. I want a system that treats those moments as a serious opportunity, not a limitation.
+
+### Why This Is Worth Solving
+
+Compounding learning happens through consistency, not intensity. A platform that transforms complex topics into structured, high-quality 10–15 minute sessions enables professionals and students to build skills steadily, even in highly constrained schedules. Over time, this model can outperform traditional long-form learning by making progress a daily habit instead of a weekly event.
+
+### MVP Capabilities
+
+- Topic-based lesson generation (e.g., SQL, finance, programming, or analytics)
+- Structured 10–15 minute learning modules
+- Daily reminders aligned to user availability
+- Progress tracking and learning streaks
+
+---
+
+## 3. Assignment & Rubric Scoring Tool — "Does This Meet the Rubric?"
+
+### Problem Description
+
+Students often submit work without a clear, actionable understanding of how their assignment aligns with a formal grading rubric. Even when expectations are documented, translating criteria into practical improvements is difficult. This disconnect leads to unnecessary point loss and weakens the feedback loop between effort and performance.
+
+### Why This Matters
+
+As a student in technical and business-focused courses, I work extensively with detailed rubrics. I have experienced how small misinterpretations of criteria can materially affect outcomes, even when the core work is strong. I believe students should be able to self-assess effectively before submission, rather than relying solely on post-grading feedback.
+
+### Why This Is Worth Solving
+
+A rubric-based assessment tool shifts evaluation from a one-way, after-the-fact process into a formative step within the workflow. By helping students identify gaps before they submit, the platform improves learning quality, reduces grading friction for instructors, and reinforces alignment between academic standards and student output.
+
+### MVP Capabilities
+
+- Upload of assignment and grading rubric (PDF or document)
+- Category-by-category scoring simulation
+- Highlighted gaps and targeted improvement suggestions
+- Estimated final grade summary
+
+---
+
+## 4. Relationship Tracker — Personal Outreach CRM
+
+### Problem Description
+
+Personal and professional relationships often deteriorate not because of conflict, but because of neglect. As networks grow, individuals lose visibility into when and how they last connected with key contacts. Without a simple system for tracking outreach and follow-ups, even meaningful relationships can fade over time.
+
+### Why This Matters
+
+I actively maintain relationships across academic, professional, and entrepreneurial circles. I have seen firsthand how easy it is for good intentions to be overtaken by busy schedules. I value consistency in relationships, but I also recognize that consistency requires structure, not just memory.
+
+### Why This Is Worth Solving
+
+Strong networks compound in value over time, but only if they are actively maintained. A lightweight, personal CRM focused on relationship "freshness" helps individuals invest in people with the same intentionality they apply to projects or finances. The result is stronger professional trust, deeper personal connections, and more resilient networks.
+
+### MVP Capabilities
+
+- Contact management with custom categories
+- Last-interaction tracking
+- Smart outreach reminders based on inactivity
+- Notes and interaction history
+
+---
+
+## 5. AI Tool & Model Recommender — "What Tools Should I Use?"
+
+### Problem Description
+
+The AI and software ecosystem is expanding at a pace that outstrips most users' ability to evaluate tools effectively. Professionals and builders face dozens of overlapping platforms, models, and pricing structures, making it difficult to identify the right solution for their technical ability, budget, and use case. This often leads to overpaying, underutilizing tools, or choosing platforms that do not scale with their needs.
+
+### Why This Matters
+
+I regularly work across development, analytics, and AI-driven projects, and I spend a disproportionate amount of time comparing tools rather than using them. The lack of a structured way to translate a real-world task into a practical, cost-effective technology stack slows down both learning and execution.
+
+### Why This Is Worth Solving
+
+Better tool selection directly improves productivity and lowers the barrier to entry for non-experts. A scenario-based recommender helps users move from confusion to action by aligning their goals with the right level of technical complexity and financial commitment. This makes advanced technology more accessible and reduces friction in the build process.
+
+### MVP Capabilities
+
+- Task and skill-level input
+- Tool and model recommendation engine
+- Side-by-side comparison (pricing, complexity, and best use cases)
+- Saveable and shareable tool stacks
