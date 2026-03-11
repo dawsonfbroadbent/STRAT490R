@@ -22,7 +22,14 @@ title: "Welcome to My Product Management Portfolio"
 ::: {.g-col-12 .g-col-md-6 .card}
 
 ### [Idea Tracker](projects/project-1.qmd)
-A lightweight, browser-based app for tracking startup problems, ideas, and notes with local-first storage. 
+A lightweight, browser-based app for tracking startup problems, ideas, and notes with local-first storage.
+
+:::
+
+::: {.g-col-12 .g-col-md-6 .card}
+
+### [BidForge](projects/project-2.qmd)
+An AI-assisted plan takeoff tool for electrical contractors that uses a project's own legend to detect and count symbols across uploaded plan PDFs.
 
 :::
 

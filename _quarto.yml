@@ -18,8 +18,8 @@ website:
         menu:
           - href: projects/project-1.qmd
             text: Project 1 - Idea Tracker
-          #- href: projects/project-2.qmd
-          #  text: Business Case Presentation
+          - href: projects/project-2.qmd
+            text: Project 2 - BidForge
           #- href: projects/project-3.qmd
           #  text: Project 3
           #- href: projects/project-4.qmd
